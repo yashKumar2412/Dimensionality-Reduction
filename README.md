@@ -15,3 +15,5 @@ The dimensionality reduction techniques applied in the first two notebooks are:
 6. ISOMAP
 7. Factor Analysis
 8. Autoencoders
+9. LLE
+10. MDS
